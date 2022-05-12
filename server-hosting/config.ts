@@ -2,9 +2,9 @@ export const Config = {
      // compulsory parameters
 
      // server hosting region
-     region: '',
+     region: 'ap-southeast-2',
      // server hosting account
-     account: '',
+     account: 'nkanaef',
      // prefix for all resources in this app
      prefix: 'SatisfactoryHosting',
      // set to false if you don't want an api to
